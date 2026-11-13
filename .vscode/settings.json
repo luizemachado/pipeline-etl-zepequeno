@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Bruto",
+            "database": "${workspaceFolder:cursopython}/Zepequeno/zepequeno_bruto.sqlite"
+        },
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "DW",
+            "database": "${workspaceFolder:cursopython}/Zepequeno/zepequeno_dw.sqlite"
+        }
+    ]
+}
